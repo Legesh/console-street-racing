@@ -1,5 +1,5 @@
 {
-  "name": "coursework",
+  "name": "streetracing",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -7,7 +7,7 @@
     "start-course-work": "node app.js"
   },
   "type": "commonjs",
-  "author": "TODO: Your Name or Nickname here",
+  "author": "Legesh",
   "license": "MIT",
   "dependencies": {
     "enquirer": "^2.3.6",
