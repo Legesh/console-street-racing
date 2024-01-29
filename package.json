@@ -1,0 +1,17 @@
+{
+  "name": "coursework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start-course-work": "node app.js"
+  },
+  "type": "commonjs",
+  "author": "TODO: Your Name or Nickname here",
+  "license": "MIT",
+  "dependencies": {
+    "enquirer": "^2.3.6",
+    "promise": "^8.1.0",
+    "sqlite3": "^5.1.6"
+  }
+}
